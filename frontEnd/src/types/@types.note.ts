@@ -1,7 +1,7 @@
 import React from 'react';
 
 export interface Note {
-    id: number;
+    id: string;
     title: string;
     content: string;
     color: Tcolor;

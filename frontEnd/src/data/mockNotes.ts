@@ -12,8 +12,8 @@ export const mockNotes: Note[] = [
             "colorText": "#18181A"
         },
         position: {
-            x: 100,
-            y: 150
+            x: 800,
+            y: 500
         },
     },{
         id: "random-id-2",
@@ -26,8 +26,8 @@ export const mockNotes: Note[] = [
             colorText: "#18181A",
         },
         position: {
-            x: 53,
-            y: 100
+            x: 150,
+            y: 253
         },
     },
 ];
